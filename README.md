@@ -4,9 +4,6 @@ A fast, private, and beginner-friendly web app that tells you how strong your pa
 
 **🔗 Live demo:** [https://hershey839.github.io/password-strength-checker](https://hershey839.github.io/password-strength-checker)
 
-<!-- Add a screenshot: save it as screenshot.png in the repo, then uncomment the line below -->
-<!-- ![Screenshot of the Password Strength Checker](screenshot.png) -->
-
 ## Features
 
 - **Real-time strength meter** — Weak, Medium, Strong, or Very Strong, with a colour-coded progress bar
