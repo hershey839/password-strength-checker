@@ -2,7 +2,7 @@
 
 A fast, private, and beginner-friendly web app that tells you how strong your password really is, how long it would take to crack, and exactly how to make it better. Built with plain HTML, CSS, and JavaScript — no frameworks, no dependencies.
 
-**🔗 Live demo:** [https://YOUR-USERNAME.github.io/password-strength-checker](https://YOUR-USERNAME.github.io/password-strength-checker)
+**🔗 Live demo:** [https://hershey839.github.io/password-strength-checker](https://hershey839.github.io/password-strength-checker)
 
 <!-- Add a screenshot: save it as screenshot.png in the repo, then uncomment the line below -->
 <!-- ![Screenshot of the Password Strength Checker](screenshot.png) -->
@@ -46,7 +46,7 @@ A fast, private, and beginner-friendly web app that tells you how strong your pa
 No installation needed.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/password-strength-checker.git
+git clone https://github.com/hershey839/password-strength-checker.git
 cd password-strength-checker
 ```
 
